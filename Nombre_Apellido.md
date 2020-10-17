@@ -1,6 +1,6 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo *Efrain May*
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gusta jugar videojuegos como Super Smash Bros y Mario Kart!
 
 - Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
 
